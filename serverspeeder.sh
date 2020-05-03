@@ -7,7 +7,7 @@ export PATH
 #授权文件自动生成url
 APX=http://rs.91yun.pw/apx1.php
 #安装包下载地址
-INSTALLPACK=https://github.com/iyqfz/ssr/master/91yunserverspeeder.tar.gz?raw=true
+INSTALLPACK=https://github.com/iyqfz/ssr/raw/master/91yunserverspeeder.tar.gz?raw=true
 #判断版本支持情况的地址
 CHECKSYSTEM=https://raw.githubusercontent.com/iyqfz/ssr/master/serverspeederbin.txt
 #bin下载地址
